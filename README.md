@@ -1,2 +1,2 @@
 # FASHIONstore
-The fashion website is developed using HTML, CSS, and JavaScript to create an engaging and responsive user experience. 
+The fashion website is developed using HTML and CSS to create an engaging and responsive user experience. 
